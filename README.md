@@ -19,17 +19,24 @@ To effectively tailor your content to different audience types the following are
 
 To gauge the existing knowledge of your audience and avoid overwhelming them with jargon, you can use the following strategies;
 
-Conduct Pre-Engagement Surveys or Polls
-
-Observe Their Language by paying attention to the language and questions your audience uses during interactions.
-Ask Clarifying Questions
-Start with Basics by beginning your presentation with general concepts or a brief overview. 
-
-Offer Multiple Levels of Detail; Provide different levels of detail for different sections of your presentation. 
-
-Use Interactive Methods eg Interactive content, such as Q&A sessions, quizzes, or live discussions, can help assess your audience's understanding and allow you to adjust your language accordingly.
+1. Conduct Pre-Engagement Surveys or Polls by  asking a few questions to understand their familiarity with the topic.
+2. You can observe their language by paying attention to your audience's language and questions during interactions.
+3. Ask Clarifying Questions
+4. Start with Basics by beginning your presentation with general concepts or a brief overview. 
+5. Offer Multiple Levels of Detail; Provide different levels of detail for different sections of your presentation. 
+6. Use Interactive Methods eg Interactive content, such as Q&A sessions, quizzes, or live discussions, can help assess your audience's understanding and allow you to adjust your language accordingly.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
+1. Use Simple Language and Avoid Jargon
+2. Include Visual Aids like infographics, diagrams, and icons that can help straightforwardly explain complex ideas. 
+3. Focus on Benefits and Practical Examples Rather than delving into technical details, emphasize how the information is useful or relevant to the audience. 
+4. Break Down Information into Smaller Steps
+5. Provide Glossaries or FAQs by Offering a glossary of terms or FAQ sections to answer common questions and clarify unfamiliar terminology in a quick, accessible format.
+6. Summarize Key Points; after explaining a concept, include a brief summary of the main ideas.
+
+
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
